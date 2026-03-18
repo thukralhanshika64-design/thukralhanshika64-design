@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=55&lines=⚡+2%2B+Years+Production+ML+%7C+Sole+Practitioner;🤖+XGBoost+%7C+TensorFlow+%7C+HuggingFace+Transformers;☁️+AWS+SageMaker+%7C+MLflow+%7C+CI%2FCD+Pipelines;📊+NLP+%7C+Churn+Prediction+%7C+ETL+Automation;🚀+Building+Intelligent+Systems+that+Ship" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=55&lines=2%2B+Years+Production+ML+%7C+Sole+ML+Practitioner;XGBoost+%7C+TensorFlow+%7C+HuggingFace+Transformers;AWS+SageMaker+%7C+MLflow+%7C+CI%2FCD+Pipelines;NLP+%7C+Churn+Prediction+%7C+ETL+Automation;Building+Intelligent+Systems+that+Ship)](https://github.com/thukralhanshika64-design)
 
 <br/><br/>
 
@@ -67,7 +67,7 @@
 
 I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experience as the **sole ML practitioner** at a D2C health brand. Every model I ship goes from raw data → feature engineering → training → SageMaker deployment → CloudWatch monitoring. I've delivered measurable business impact: churn reduction, NLP dashboards adopted by product teams, and full ETL automation.
 
-| 🔭 Currently | Completing MCA in AI & ML @ Amity University (GPA 9.1/10) |
+| 🔭 Currently | Pursuing MCA in AI & ML @ Amity University (GPA 9.1/10) |
 |---|---|
 | 🛠️ Specialty | End-to-end ML — raw data → monitored production systems |
 | ⚡ Superpower | Turning ML into concrete business outcomes |
@@ -290,11 +290,9 @@ I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experien
 
 ### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thukralhanshika64-design/thukralhanshika64-design/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thukralhanshika64-design/thukralhanshika64-design/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+> ⚠️ **To get YOUR personal snake:** Create `.github/workflows/snake.yml` in your profile repo — see the comment at the bottom of this file for the full YAML. Run the workflow once manually and it will generate your own snake from your real contribution graph.
 
 </div>
 
@@ -305,7 +303,7 @@ I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experien
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=500&height=40&lines=✨+Leveling+up+one+model+at+a+time.+✨" alt="Footer quote" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Leveling+up+one+model+at+a+time.)](https://github.com/thukralhanshika64-design)
 
 <br/>
 
