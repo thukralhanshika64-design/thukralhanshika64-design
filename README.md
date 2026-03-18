@@ -24,7 +24,7 @@
 <br/><br/>
 
 <!-- ░░░ SOCIAL LINKS ░░░ -->
-<a href="https://linkedin.com/in/hanshika">
+<a href="https://linkedin.com/in/hanshika-thukral-6948b738a">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=a855f7" />
 </a>
 &nbsp;
