@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=55&lines=2%2B+Years+Production+ML+%7C+Sole+ML+Practitioner;XGBoost+%7C+TensorFlow+%7C+HuggingFace+Transformers;AWS+SageMaker+%7C+MLflow+%7C+CI%2FCD+Pipelines;NLP+%7C+Churn+Prediction+%7C+ETL+Automation;Building+Intelligent+Systems+that+Ship)](https://github.com/thukralhanshika64-design)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=750&height=65&lines=AI+%2F+ML+Engineer+%7C+2%2B+Years+Production;Solo+ML+Practitioner+%7C+Full+Lifecycle+Owner;XGBoost+%7C+TensorFlow+%7C+HuggingFace;AWS+SageMaker+%7C+MLflow+%7C+Docker;NLP+%7C+Churn+Prediction+%7C+ETL+Automation;Building+Intelligent+Systems+that+Ship)](https://github.com/thukralhanshika64-design)
 
 <br/><br/>
 
@@ -293,6 +293,74 @@ I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experien
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 > ⚠️ **To get YOUR personal snake:** Create `.github/workflows/snake.yml` in your profile repo — see the comment at the bottom of this file for the full YAML. Run the workflow once manually and it will generate your own snake from your real contribution graph.
+
+</div>
+
+---
+
+---
+
+## 📬 CONNECT WITH ME
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---|
+| 💼 LinkedIn | [linkedin.com/in/hanshika](https://linkedin.com/in/hanshika) |
+| 📧 Email | [thukralhanshika3@gmail.com](mailto:thukralhanshika3@gmail.com) |
+| 🐙 GitHub | [github.com/thukralhanshika64-design](https://github.com/thukralhanshika64-design) |
+
+<a href="https://linkedin.com/in/hanshika">
+  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:thukralhanshika3@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌍 VISITOR MAP
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/thukralhanshika64-design/count.svg" alt="Visitor Count" />
+
+<br/><br/>
+
+[![](https://visitcount.itsvg.in/api?id=thukralhanshika64-design&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<br/>
+
+> 🌏 Visitors from around the world have landed on this profile!
+
+</div>
+
+---
+
+## 🎲 DEV QUOTE OF THE DAY
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+machine+learning+model+is+the+one+that+ships+to+production.&author=Hanshika+Thukral)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🎵 SPOTIFY NOW PLAYING
+
+<div align="center">
+
+[![Spotify](https://novatorem-thukralhanshika64-design.vercel.app/api/spotify)](https://open.spotify.com)
+
+> 🎧 *To activate this: Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel with your Spotify credentials and replace the URL above with your deployment URL.*
 
 </div>
 
