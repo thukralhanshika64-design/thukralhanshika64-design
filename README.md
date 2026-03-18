@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=750&height=65&lines=AI+%2F+ML+Engineer+%7C+2%2B+Years+Production;Solo+ML+Practitioner+%7C+Full+Lifecycle+Owner;XGBoost+%7C+TensorFlow+%7C+HuggingFace;AWS+SageMaker+%7C+MLflow+%7C+Docker;NLP+%7C+Churn+Prediction+%7C+ETL+Automation;Building+Intelligent+Systems+that+Ship)](https://github.com/thukralhanshika64-design)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=65&lines=%F0%9F%9A%80+AI+%2F+ML+Engineer+%7C+2%2B+Years+Production;%F0%9F%9A%80+Solo+ML+Practitioner+%7C+Full+Lifecycle+Owner;%F0%9F%9A%80+XGBoost+%7C+TensorFlow+%7C+HuggingFace;%F0%9F%9A%80+AWS+SageMaker+%7C+MLflow+%7C+Docker;%F0%9F%9A%80+NLP+%7C+Churn+Prediction+%7C+ETL+Automation;%F0%9F%9A%80+Building+Intelligent+Systems+that+Ship)](https://github.com/thukralhanshika64-design)
 
 <br/><br/>
 
