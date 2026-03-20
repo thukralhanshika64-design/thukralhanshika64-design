@@ -310,7 +310,7 @@ I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experien
 | 📧 Email | [thukralhanshika3@gmail.com](mailto:thukralhanshika3@gmail.com) |
 | 🐙 GitHub | [github.com/thukralhanshika64-design](https://github.com/thukralhanshika64-design) |
 
-<a href="https://linkedin.com/in/hanshika">
+<a href="https://www.linkedin.com/in/hanshika-thukral-6948b738a/">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
