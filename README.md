@@ -306,7 +306,7 @@ I'm an **AI/ML Engineer** with **2+ years** of end-to-end production ML experien
 
 | Platform | Link |
 |:---:|:---|
-| 💼 LinkedIn | [[linkedin.com/in/hanshika](https://linkedin.com/in/hanshika](https://www.linkedin.com/in/hanshika-thukral-6948b738a/)) |
+| 💼 LinkedIn | [[https://www.linkedin.com/in/hanshika-thukral-6948b738a/](https://linkedin.com/in/hanshika](https://www.linkedin.com/in/hanshika-thukral-6948b738a/)) |
 | 📧 Email | [thukralhanshika3@gmail.com](mailto:thukralhanshika3@gmail.com) |
 | 🐙 GitHub | [github.com/thukralhanshika64-design](https://github.com/thukralhanshika64-design) |
 
